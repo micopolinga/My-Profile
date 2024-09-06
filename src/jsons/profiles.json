@@ -1,0 +1,38 @@
+{
+  "data_1": [
+    { "birthday": "9 jan 2003" },
+    { "phone": "+63 970-650-3246" },
+    { "address": "Cahayag, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S.T" },
+    { "fb": "<a href='mailto:someone@example.com'>https://www.facebook.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Chayag, Tubigon, Bohol, Philippines",
+    "+63 970-650-3246",
+    "<a href='mailto:someone@example.com'>https://www.facebook.com/</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S.T",
+      "year": "DuhaDuhaan pa ",
+      "school": "Materdie College",
+      "address": "Cabulijan,Tubigon,Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008 - 2014",
+      "school": "Cahayag Elementary School",
+      "address": "Cahayag, Tubigon, Bohol"
+    }
+  ]
+}

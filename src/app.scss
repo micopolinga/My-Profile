@@ -1,0 +1,103 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #272829;
+
+  a {
+    color: #149ddd;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #37b3ed;
+    text-decoration: none;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Raleway', sans-serif;
+  }
+
+  :root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #242424;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .container,
+  .container-fluid {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  @media (max-width: 1199px) {
+    #header {
+      left: -300px;
+    }
+
+    #main {
+      margin-left: 0;
+    }
+
+    .container,
+    .container-fluid {
+      padding-left: 12px;
+      padding-right: 12px;
+    }
+  }
+
+  /*--------------------------------------------------------------
+    # Sections General
+  --------------------------------------------------------------*/
+  section {
+    padding: 60px 0;
+    overflow: hidden;
+  }
+
+  .section-bg {
+    background: #f5f8fd;
+  }
+
+  .section-title {
+    padding-bottom: 30px;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    h2 {
+      font-size: 32px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      position: relative;
+      color: #173b6c;
+    }
+
+    h2::after {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 50px;
+      height: 3px;
+      background: #149ddd;
+      bottom: 0;
+      left: 0;
+    }
+  }
+}

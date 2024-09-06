@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "company": "Accenture Philippines Inc.",
+      "title": "Software Engineer (Assoc. Manager)",
+      "duration": "March 2019 - Present",
+      "tasks": [
+        "Managed a team of developers to design web applications to process, analyze, and render data, including the development of new features to improve data visualization.",
+        "Led senior programmers across multiple work-streams to implement code quality.",
+        "Developed a mentorship and training program for junior and entry-level engineers.",
+        "Liaised with back-end developers, front-end developers, and quality assurance testers as needed.",
+        "Maximized applications efficiency, data quality, scope, operability, and flexibility.",
+        "Built responsive websites using semantic HTML5, JavaScript, ReactJS, and CSS which processed, analyzed, and rendered data visually."
+      ]
+    },
+    {
+      "company": "SmartGroup Enterprise Inc.",
+      "title": "Software Engineer (Senior Dev.)",
+      "duration": "May 2010 - Feb. 2019",
+      "tasks": [
+        "Developed full-stack applications across various platforms using latest industry-adopted technologies and frameworks.",
+        "Oversaw debugging activities for applications, web pages, and product features to increase speed and function.",
+        "Identified and resolve web development issues reported by clients.",
+        "Deployed applications to multiple cloud-based production enviroments, set up and maintain a relational and document database.",
+        "Played a key role in the development, improvement, and operation of web-based software."
+      ]
+    },
+    {
+      "company": "Business Machine Corporation",
+      "title": "Service Techician",
+      "duration": "April 2008 - March 2009",
+      "tasks": [
+        "Installed equipment on-site.",
+        "Fixed defective or broken equipment",
+        "Provided instructions to customers on the proper usage of their equipment."
+      ]
+    }
+  ]
+}

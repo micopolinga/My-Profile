@@ -1,0 +1,24 @@
+{
+  "techs_1": [
+    { "name": "Java", "rate": "60" },
+    { "name": "Laravel", "rate": "70" },
+    { "name": "Vue", "rate": "65" },
+    { "name": "NetWorking", "rate": "80" },
+    { "name": "Javascript", "rate": "75" },
+    { "name": "Python", "rate": "50" },
+    { "name": "Software Development", "rate": "55" },
+    { "name": "Robotics", "rate": "85" },
+    { "name": "Data Science and Analytics", "rate": "90" }
+  ],
+  "techs_2": [
+    { "name": "AWS Lambda", "rate": "60" },
+    { "name": "AWS Cloudfront", "rate": "60" },
+    { "name": "AWS Codecommit", "rate": "70" },
+    { "name": "AWS API Gateway", "rate": "60" },
+    { "name": "AWS S3 Bucket", "rate": "60" },
+    { "name": "AWS DynamoDB", "rate": "55" },
+    { "name": "AWS Secrets Manager", "rate": "65" },
+    { "name": "Agile Methodology", "rate": "70" },
+    { "name": "Continuous Integration", "rate": "65" }
+  ]
+}
